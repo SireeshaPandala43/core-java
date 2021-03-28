@@ -10,6 +10,7 @@ public class Hello {
 		john.breathe();
 		john.message();
 		System.out.println("***************");
+		System.out.println("Sireesha Practice");
 		
 		Person mia = new NonVegan();
 		mia.speak();
